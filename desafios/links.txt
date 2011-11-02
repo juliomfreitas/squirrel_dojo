@@ -1,0 +1,9 @@
+* Site Oficial
+http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue
+
+* Spoj - desafios para competições
+http://br.spoj.pl/problems/seletivas/
+
+* Project Euler
+http://projecteuler.net/
+
